@@ -40,4 +40,40 @@ Letra *ilatica* de la segunda forma
 
 # Imagenes
 
-[Logo Github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Logo Github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+
+# Snippets de código
+
+``` C#
+
+Console.WriteLine("Hola");
+
+```
+# Tablas
+
+| Nombre | Apellido | Documento|
+| -------- | --------- | --------- |
+| Carlos | Dovales | 1096235380|
+
+
+# Citas
+Texto referente: 
+> esto es una cita
+
+Texto dos. 
+> Cita dos
+
+
+# Lineas divisoras
+Esto es un texto.
+___
+Lolazo
+***
+
+
+# Salto de linea
+
+Primer Parrafo.
+
+Lol
